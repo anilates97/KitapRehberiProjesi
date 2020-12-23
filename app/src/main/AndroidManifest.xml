@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ates.bookguide">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name="com.ates.bookguide.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Kitap Rehberi"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.ates.bookguide.LoadingScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ates.bookguide.ForgotPasswordActivity"
+            android:parentActivityName="com.ates.bookguide.SignInActivity" />
+
+        <service
+            android:name="com.ates.bookguide.MyFireBaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.ates.bookguide.GetAllBooksActivity"
+            android:parentActivityName="com.ates.bookguide.HomePageActivity" />
+        <activity
+            android:name="com.ates.bookguide.AddBookActivity"
+            android:parentActivityName="com.ates.bookguide.HomePageActivity" />
+        <activity android:name="com.ates.bookguide.HomePageActivity" />
+        <activity
+            android:name="com.ates.bookguide.SignInActivity"
+            android:parentActivityName="com.ates.bookguide.MainActivity" />
+        <activity
+            android:name="com.ates.bookguide.SignUpActivity"
+            android:parentActivityName="com.ates.bookguide.MainActivity" />
+        <activity android:name="com.ates.bookguide.MainActivity">
+
+        </activity>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:value="test_sound_channel" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

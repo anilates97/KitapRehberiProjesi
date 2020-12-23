@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">164158185848-oin0cahejrqp0c473bqfpv6ehdqj752p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">164158185848</string>
+    <string name="google_api_key" translatable="false">AIzaSyDhBW5MmCoZqrAuL_zGWMvPI020GrjLzaE</string>
+    <string name="google_app_id" translatable="false">1:164158185848:android:e0e947677f5340b409288d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhBW5MmCoZqrAuL_zGWMvPI020GrjLzaE</string>
+    <string name="google_storage_bucket" translatable="false">bookguide-c64d5.appspot.com</string>
+    <string name="project_id" translatable="false">bookguide-c64d5</string>
+</resources>

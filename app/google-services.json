@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164158185848",
+    "project_id": "bookguide-c64d5",
+    "storage_bucket": "bookguide-c64d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164158185848:android:e0e947677f5340b409288d",
+        "android_client_info": {
+          "package_name": "com.ates.bookguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164158185848-g9sdku765rp775n3j0dqc404mkr5uge7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ates.bookguide",
+            "certificate_hash": "f302e72029e104d5e8e846fb7c64dabad2220b1d"
+          }
+        },
+        {
+          "client_id": "164158185848-oin0cahejrqp0c473bqfpv6ehdqj752p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBW5MmCoZqrAuL_zGWMvPI020GrjLzaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164158185848-oin0cahejrqp0c473bqfpv6ehdqj752p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Guide</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string-array name="category_array">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Eğitici</item>
+        <item>Motivasyon</item>
+        <item>Dini</item>
+        <item>Evlilik</item>
+        <item>Kariyer</item>
+        <item>Manevi</item>
+        <item>Geliştirici</item>
+        <item>İlham verici</item>
+        <item>Galeri</item>
+    </string-array>
+</resources>

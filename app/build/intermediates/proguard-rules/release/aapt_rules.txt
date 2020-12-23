@@ -1,0 +1,203 @@
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:50
+-keep class com.ates.bookguide.AddBookActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class com.ates.bookguide.App { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:35
+-keep class com.ates.bookguide.ForgotPasswordActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:47
+-keep class com.ates.bookguide.GetAllBooksActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:53
+-keep class com.ates.bookguide.HomePageActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:28
+-keep class com.ates.bookguide.LoadingScreenActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:60
+-keep class com.ates.bookguide.MainActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:39
+-keep class com.ates.bookguide.MyFireBaseMessagingService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:54
+-keep class com.ates.bookguide.SignInActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:57
+-keep class com.ates.bookguide.SignUpActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:233
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:246
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:240
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:186
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:177
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:201
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:223
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:213
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:219
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:112
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:75
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:93
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:192
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:168
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:206
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.squareup.picasso.PicassoProvider { <init>(); }
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_get_all_books.xml:18
+-keep class androidx.appcompat.widget.AppCompatTextView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\toolbar_layout.xml:16
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:11
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_in.xml:11
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_get_all_books.xml:9
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_forgot_password.xml:11
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_add_book.xml:12
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\toolbar_layout.xml:78
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\book_item_layout.xml:14
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:111
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_add_book.xml:111
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\toolbar_layout.xml:28
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\custom_loading_dialog.xml:2
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:48
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_in.xml:44
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_main.xml:2
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_get_all_books.xml:2
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_forgot_password.xml:35
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_add_book.xml:48
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\a957ad8b6467d7a35d406ac3c880b094\appcompat-1.2.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_home_page.xml:2
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_get_all_books.xml:40
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_get_all_books.xml:30
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:247
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_in.xml:159
+-keep class com.google.android.gms.common.SignInButton { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\toolbar_layout.xml:10
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_home_page.xml:20
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\Muhendis\.gradle\caches\transforms-2\files-2.1\c1a7e7809798487e4fee691418ba87c8\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:151
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_in.xml:85
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_forgot_password.xml:77
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_add_book.xml:156
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_up.xml:136
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_sign_in.xml:70
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_forgot_password.xml:62
+# Referenced at C:\Users\Muhendis\Desktop\bookguide-project\app\src\main\res\layout\activity_add_book.xml:141
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
